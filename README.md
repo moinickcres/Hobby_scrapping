@@ -1,2 +1,2 @@
 # Hobby_scrapping
-Simple scrapping system to try different tools and concurrency
+Simple scrapping system to try different tools and concurrency with threads
